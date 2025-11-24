@@ -1,1 +1,14 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+# AI Library (choose one, e.g., Google GenAI)
+google-genai
+python-dotenv
 
+# Streamlit Frontend
+streamlit
+requests
